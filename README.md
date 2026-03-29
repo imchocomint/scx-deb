@@ -1,2 +1,8 @@
 # scx-deb
- scx_scheds for Debian
+Based on the Arch package.
+
+## Build
+GitHub Actions; or clone and run the .sh file
+
+## Install
+Download from Releases
