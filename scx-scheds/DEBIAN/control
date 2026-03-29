@@ -1,0 +1,16 @@
+Package: scx-scheds
+Section: main
+Architecture: amd64
+Maintainer: Tran Thien Minh <bbconisme@proton.me>
+Priority: optional
+Depends: bpftool,
+         libgcc-s1,
+         libc6,
+         libseccomp2,
+         libbpf1,
+         libelf1,
+         protobuf-compiler,
+         zlib1g,
+         jq
+Description: sched_ext schedulers and tools 
+Version: 1.1.0
