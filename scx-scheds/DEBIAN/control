@@ -13,4 +13,4 @@ Depends: bpftool,
          zlib1g,
          jq
 Description: sched_ext schedulers and tools 
-Version: 1.1.0
+Version: 1.1.2
