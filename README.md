@@ -1,5 +1,5 @@
 # scx-deb
-Based on the Arch package.
+Based on the Arch package. Added scx-tools for better management.
 
 ## Build
 GitHub Actions; or clone and run the .sh file
